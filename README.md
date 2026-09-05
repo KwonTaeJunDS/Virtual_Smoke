@@ -4,9 +4,6 @@ A real-time browser experiment that overlays an interactive virtual cigarette an
 
 > This is a creative-coding experiment, not a smoking product or health application.
 
-## 한국어 요약
-
-웹캠에서 손과 얼굴을 실시간으로 추적해 가상 담배와 연기를 합성하는 웹 AR 프로젝트입니다. 핵심 로직은 TypeScript, UI는 React와 CSS, 손·얼굴 추적은 MediaPipe, 담배와 연기는 Three.js/WebGL 및 GLSL 셰이더로 구현했습니다. 카메라 영상과 랜드마크는 브라우저 안에서만 처리됩니다.
 
 ## Features
 
